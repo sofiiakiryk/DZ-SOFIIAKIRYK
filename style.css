@@ -1,0 +1,65 @@
+.buttom1 { 
+font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    color: white;
+   margin: auto;
+   margin: 20px 10px;
+  font-size: 23px;
+  
+}
+.menu { 
+    background-color:rgba(56, 73, 91, 255);
+    height: 60px;
+    width: 760.50px;
+    border-radius: 10px;
+margin: auto;
+
+}
+    .text {
+        font-family: 'Special Elite', cursive;
+      text-align: center;
+    }
+        .buttom2 {
+            font-family: 'Nunito', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            text-decoration: none;
+            color: white;
+            margin: auto;
+            margin: 20px 10px;
+            font-size: 23px;
+    
+        }
+                .buttom3 {
+                    font-family: 'Nunito', sans-serif;
+                    font-family: 'Poppins', sans-serif;
+                    text-decoration: none;
+                    color: white;
+                    margin: auto;
+                    margin: 20px 10px;
+                    font-size: 23px;}
+  .buttom4 {
+      font-family: 'Nunito', sans-serif;
+      font-family: 'Poppins', sans-serif;
+      text-decoration: none;
+      color: white;
+      margin: auto;
+      margin: 20px 10px;
+      font-size: 23px;}
+          .buttom5 {
+              font-family: 'Nunito', sans-serif;
+              font-family: 'Poppins', sans-serif;
+              text-decoration: none;
+              color: white;
+              margin: auto;
+              margin: 20px 10px;
+              font-size: 23px;
+    
+          }
+        
+        .b0 { display:inline-block;
+       padding: 12px 20px;
+    }
+    .b0:hover { background-color:rgba(66, 189, 154, 255) ;
+    border-radius: 10px;
+height: 36px;}
